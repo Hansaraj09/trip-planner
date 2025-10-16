@@ -1,4 +1,4 @@
-App Link:  [https://trip-planner-1-dz9y.onrender.com](https://trip-planner-2-okxb.onrender.com/)
+App Link:  https://trip-planner-2-okxb.onrender.com/
 
 
 🌍 Intelligent Trip Planner Agent
